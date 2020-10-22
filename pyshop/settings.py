@@ -24,7 +24,7 @@ SECRET_KEY = 'und&(gyni2-42vt=^xmb&v+o9j7@uc&g9=#0u^*+%i^6pj+c#q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
